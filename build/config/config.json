@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x07ef263bb8b302f114974f312fb7f778d1181c67",
+    "SCAN_LINK": "https://etherscan.io/address/0x07ef263bb8b302f114974f312fb7f778d1181c67",
+    "NETWORK": {
+        "NAME": "ETHEREUM",
+        "SYMBOL": "ETH",
+        "ID": 1
+    },
+    "NFT_NAME": "BadBabys2.0",
+    "SYMBOL": "BBNFT",
+    "MAX_SUPPLY": 10000,
+    "WEI_COST": 80000000000000000,
+    "DISPLAY_COST": 0.08,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/badbabys2-0",
+    "SHOW_BACKGROUND": true
+}
