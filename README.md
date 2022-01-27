@@ -1,4 +1,4 @@
-# Welcome to The Stripes NFT 💎
+# BadBabys2.0
 
 ![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
 
@@ -6,15 +6,15 @@ All the code in these repos was created and explained by HashLips on the main Yo
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/AliSolanki)
+[📺 YouTube](https://www.youtube.com/BadBabys)
 
-[💬 Telegram](https://t.me/studentsamaj)
+[💬 Telegram](https://t.me/BadBabysNFTs)
 
-[🐦 Twitter](https://twitter.com/thestripesnft)
+[🐦 Twitter](https://twitter.com/TheSolarArtist)
 
-[ℹ️ Website](https://thestripesnft.com/)
+[ℹ️ Website](https://badbabys.net/)
 
-# The Stripes NFT minting dapp 🔥
+# BadBabys2.0 minting dapp 🔥
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
